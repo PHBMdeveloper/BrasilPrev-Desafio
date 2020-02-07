@@ -9,7 +9,7 @@ O programa proposto executa 300 simulações, imprimindo no console os dados ref
 - Qual a porcentagem de vitórias por comportamento dos jogadores;
 - Qual o comportamento que mais vence.
 
-<img src="preview.jpg" alt="drawing" width="800"/>
+<img src="preview.jpg" alt="drawing" width="850"/>
 
 ## 👨🏼‍💻 Desenvolvedor
 
