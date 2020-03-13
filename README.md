@@ -43,10 +43,9 @@ Os recursos da implementação se encontra na pasta src:
 - `comportamento.py` (Definição do comportamento dos jogadores...)
 - `estado.py` (Carrega algumas variáveis na inicialização...)
 - `excluir_jogador.py` (Função para excluir o jogador da partida...)
-- `finalizando.py` (Geração do relatório no terminal)
+- `finalizando.py` (Geração do relatório no terminal...)
 - `jogadores.py`(Controi aleatoriamente os jogadores definindo quem começa a partida...)
-- `pagar_aluguel.py` (Função global para pagamento do aluguel..)
+- `pagar_aluguel.py` (Função global para pagamento do aluguel...)
 - `tabuleiro.py` (Controi o tabuleiro com valores aleatorios para compra e venda de imovel...)
-- `tools.py.py` (Arquivo de apoio para construções das funções...)
-
+- `tools.py` (Arquivo de apoio para construções das funções...)
 ---
